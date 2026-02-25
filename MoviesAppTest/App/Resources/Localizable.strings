@@ -1,0 +1,4 @@
+/* Localizable.strings */
+"movie_list.title" = "Popular Movies";
+"common.retry" = "Retry";
+"movie_detail.rating" = "Rating";
